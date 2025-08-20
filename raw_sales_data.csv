@@ -1,0 +1,121 @@
+OrderID,CustomerName,Product,Category,Quantity,UnitPrice,OrderDate,PaymentMethod
+0,Eve,Watch,Fash,3.0,1200.0,2023/01/20,
+1,Bob,Laptop,fashion,3.0,1200.0,2023/02/22,
+2,Diana,Headphones,Fash,,1200.0,09-01-2023,PayPal
+3,Diana,T-Shirt,Fash,-1.0,20.0,2023/03/28,PayPal
+4,Alice,Phone,electronics,,500.0,2023/02/24,Bank Transfer
+5,,T-Shirt,Fashion,-1.0,50.0,2023/01/29,Cash
+6,Charlie,Watch,fashion,-1.0,500.0,2023/02/22,Cash
+7,Diana,Headphones,fashion,-1.0,,2023/03/10,
+8,Diana,Watch,fashion,3.0,50.0,2023/01/26,Bank Transfer
+9,Eve,Laptop,fashion,3.0,1200.0,2023/03/08,Bank Transfer
+10,Bob,Watch,electronics,1.0,50.0,2023/01/20,Cash
+11,,Watch,electronics,,20.0,2023/01/23,Credit Card
+12,Charlie,Shoes,Fashion,-1.0,50.0,2023/02/19,Bank Transfer
+13,Bob,T-Shirt,Elec,3.0,-10.0,2023/03/24,Credit Card
+14,Charlie,Laptop,Fashion,3.0,,2023/02/15,
+15,Bob,Watch,electronics,2.0,,2023/02/05,PayPal
+16,Eve,Phone,Fashion,3.0,,04-02-2023,Credit Card
+17,Diana,Laptop,fashion,3.0,20.0,2023/02/12,Bank Transfer
+18,Diana,Shoes,Elec,2.0,1200.0,2023/02/04,
+19,Eve,Headphones,Electronics,1.0,20.0,2023/01/21,PayPal
+20,Diana,Phone,Electronics,-1.0,500.0,2023/03/16,PayPal
+21,Diana,T-Shirt,Electronics,1.0,1200.0,2023/02/21,Bank Transfer
+22,Eve,Phone,Elec,-1.0,1200.0,2023/02/17,Credit Card
+23,Bob,T-Shirt,fashion,2.0,500.0,2023/03/17,Cash
+24,Bob,Phone,fashion,,20.0,2023/01/19,Credit Card
+25,Charlie,Laptop,Fashion,,50.0,13-03-2023,PayPal
+26,Frank,Headphones,electronics,3.0,-10.0,2023/03/22,Bank Transfer
+27,,Phone,Fash,-1.0,1200.0,2023/01/11,PayPal
+28,Bob,Laptop,Electronics,1.0,-10.0,2023/03/08,PayPal
+29,Eve,Phone,electronics,,1200.0,2023/03/04,PayPal
+30,Eve,Laptop,fashion,1.0,20.0,2023/01/28,Credit Card
+31,,Shoes,Electronics,,500.0,2023/01/02,Bank Transfer
+32,Alice,T-Shirt,fashion,-1.0,20.0,2023/03/24,Cash
+33,Frank,T-Shirt,Fash,2.0,-10.0,2023/03/06,Bank Transfer
+34,,Laptop,Elec,,50.0,12-03-2023,Cash
+35,Frank,Shoes,Fashion,1.0,1200.0,2023/02/07,Cash
+36,Eve,Shoes,Electronics,,1200.0,2023/01/23,PayPal
+37,Eve,T-Shirt,Fash,,50.0,2023/02/18,PayPal
+38,Eve,Shoes,Elec,2.0,20.0,2023/01/31,PayPal
+39,,T-Shirt,Electronics,3.0,1200.0,2023/01/02,Bank Transfer
+40,,Headphones,electronics,2.0,500.0,2023/03/14,Bank Transfer
+41,Frank,Watch,Fashion,-1.0,-10.0,2023/03/14,PayPal
+42,Frank,Laptop,Elec,1.0,,2023/01/21,Credit Card
+43,Diana,Watch,Fashion,3.0,50.0,06-01-2023,
+44,,Headphones,Fashion,2.0,20.0,2023/03/18,Bank Transfer
+45,Diana,T-Shirt,fashion,2.0,-10.0,2023/01/23,Credit Card
+46,Eve,Watch,electronics,2.0,500.0,2023/02/26,
+47,Charlie,Headphones,fashion,3.0,,2023/02/28,PayPal
+48,Alice,Watch,fashion,-1.0,20.0,2023/03/09,Cash
+49,Charlie,T-Shirt,Elec,2.0,100.0,2023/03/16,Credit Card
+50,Charlie,Shoes,Elec,,100.0,2023/01/07,PayPal
+51,Diana,Watch,Fash,1.0,1200.0,2023/02/07,PayPal
+52,Bob,Laptop,Fashion,-1.0,500.0,12-03-2023,Cash
+53,Alice,Headphones,fashion,2.0,,2023/03/29,Cash
+54,Bob,Watch,electronics,,1200.0,2023/02/17,Cash
+55,Bob,Headphones,Elec,1.0,20.0,2023/01/01,Credit Card
+56,Frank,Shoes,fashion,1.0,,2023/03/24,Bank Transfer
+57,Charlie,Watch,electronics,1.0,500.0,2023/02/24,Cash
+58,Charlie,Watch,Fashion,2.0,-10.0,2023/01/20,
+59,Charlie,Laptop,fashion,-1.0,100.0,2023/02/14,Bank Transfer
+60,Bob,Watch,Fashion,-1.0,100.0,2023/02/15,PayPal
+61,Eve,Phone,Fash,3.0,20.0,2023/02/05,
+62,Frank,T-Shirt,Elec,,20.0,2023/03/06,
+63,Bob,Headphones,Fash,-1.0,-10.0,2023/03/01,Credit Card
+64,Frank,T-Shirt,Fash,2.0,1200.0,2023/02/01,Bank Transfer
+65,Charlie,Laptop,fashion,,50.0,2023/01/26,Credit Card
+66,Frank,Watch,Electronics,,500.0,2023/03/04,Bank Transfer
+67,,Laptop,Fash,,-10.0,2023/01/07,Credit Card
+68,Diana,Watch,Fash,,50.0,2023/02/28,
+69,Charlie,T-Shirt,Fash,1.0,50.0,2023/03/31,Cash
+70,Diana,Shoes,Electronics,2.0,,2023/03/06,
+71,Eve,Watch,electronics,2.0,1200.0,2023/03/06,Credit Card
+72,Frank,T-Shirt,Fashion,3.0,-10.0,2023/01/03,
+73,,Laptop,Electronics,1.0,,2023/03/15,Bank Transfer
+74,,Phone,Fash,2.0,20.0,2023/01/27,
+75,Diana,T-Shirt,electronics,-1.0,50.0,12-02-2023,PayPal
+76,Diana,Headphones,fashion,2.0,500.0,2023/01/11,Cash
+77,Alice,Shoes,Elec,-1.0,20.0,2023/03/14,Cash
+78,Alice,Phone,Fashion,,100.0,2023/02/12,PayPal
+79,,Laptop,Fash,,1200.0,2023/01/12,PayPal
+80,,Watch,Electronics,3.0,1200.0,2023/01/02,Cash
+81,Bob,Phone,Electronics,3.0,-10.0,2023/02/21,Cash
+82,Eve,Headphones,electronics,3.0,100.0,2023/01/10,PayPal
+83,Charlie,Shoes,Fashion,1.0,-10.0,2023/02/18,Credit Card
+84,Bob,T-Shirt,electronics,2.0,20.0,2023/02/04,Bank Transfer
+85,Frank,Laptop,electronics,2.0,500.0,2023/03/22,
+86,Charlie,Phone,Fashion,1.0,500.0,2023/03/31,
+87,Frank,T-Shirt,Fashion,3.0,1200.0,2023/03/06,Bank Transfer
+88,Frank,Laptop,Fashion,1.0,500.0,2023/03/23,
+89,Alice,Laptop,Elec,3.0,-10.0,2023/01/30,PayPal
+90,Diana,T-Shirt,Electronics,,100.0,2023/03/13,Credit Card
+91,Alice,T-Shirt,Fash,,50.0,2023/01/15,Cash
+92,,Watch,Fashion,-1.0,100.0,2023/03/22,
+93,Frank,Laptop,Elec,1.0,,2023/03/30,PayPal
+94,Frank,Watch,fashion,1.0,,2023/03/03,Cash
+95,Charlie,Laptop,Electronics,3.0,1200.0,2023/03/08,Cash
+96,Frank,Laptop,Elec,3.0,,2023/03/29,PayPal
+97,,Laptop,Elec,1.0,100.0,27-02-2023,Cash
+98,,Watch,Fash,3.0,500.0,2023/02/25,
+99,Diana,Laptop,Electronics,1.0,1200.0,2023/01/02,Bank Transfer
+100,Alice,Headphones,Elec,1.0,50.0,2023/01/11,Credit Card
+101,Bob,Watch,fashion,2.0,20.0,2023/02/16,
+102,Charlie,Phone,Electronics,,20.0,2023/01/18,
+103,Alice,Laptop,Fashion,2.0,500.0,2023/03/25,PayPal
+104,Diana,T-Shirt,electronics,1.0,100.0,2023/03/08,PayPal
+105,Diana,Phone,electronics,-1.0,50.0,2023/01/12,PayPal
+106,Frank,Phone,electronics,3.0,50.0,2023/02/14,Cash
+107,Bob,Headphones,Electronics,1.0,20.0,2023/03/27,
+108,Frank,Headphones,fashion,-1.0,100.0,2023/01/24,Bank Transfer
+109,Alice,Watch,Electronics,,1200.0,12-01-2023,Bank Transfer
+110,Eve,Phone,Fashion,-1.0,1200.0,2023/03/13,Bank Transfer
+111,Charlie,T-Shirt,Fash,,500.0,2023/03/29,Cash
+112,,Headphones,electronics,-1.0,50.0,2023/01/20,PayPal
+113,Charlie,Watch,fashion,,,15-03-2023,Bank Transfer
+114,,Shoes,Fash,3.0,,2023/02/03,Credit Card
+115,Alice,Shoes,Fash,2.0,,2023/03/04,Bank Transfer
+116,Frank,Watch,fashion,3.0,1200.0,2023/03/18,Cash
+117,Bob,Shoes,fashion,,-10.0,2023/01/19,
+118,Alice,Headphones,electronics,3.0,20.0,2023/02/21,Credit Card
+119,Charlie,T-Shirt,Elec,,1200.0,2023/03/11,Bank Transfer
